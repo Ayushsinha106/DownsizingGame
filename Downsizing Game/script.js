@@ -231,7 +231,7 @@ const functionMap = {
 }
 
 
-const Questions = ['Money is everything','Thw Winner of this game is me','this game is easy','there are prime number of players here','i prefer light novel over manga','this game will end in tie','only 1 person win this game','two players win this game', 'sometime liaing is good', 'ronaldo is worst player', 'liar game is best manga', 'edogawa conan is best']
+const Questions = ['Money is everything', 'everything going to be fine', 'Python is Best programming language' ,'No player is going to win the game','Thw Winner of this game is me','this game is easy','there are prime number of players here','i prefer light novel over manga','this game will end in tie','only 1 person win this game','two players win this game', 'sometime liaing is good', 'ronaldo is worst player', 'liar game is best manga', 'edogawa conan is best']
 let newQuestions = [];
 
 let winningPlayers = []
